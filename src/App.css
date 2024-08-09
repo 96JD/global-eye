@@ -1,0 +1,15 @@
+:root {
+	--main-color: #343a40;
+}
+
+.navbar-bg {
+	background-color: var(--main-color);
+}
+
+body {
+	background: #d9dde2;
+}
+
+.main-color {
+	color: var(--main-color);
+}
